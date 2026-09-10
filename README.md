@@ -6,7 +6,7 @@ API первого рабочего MVP: проекты, документы, н�
 
 ```bash
 cp .env.example .env
-npm install
+npm ci
 npm run build
 npm run db:migrate
 npm start
